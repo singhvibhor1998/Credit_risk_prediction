@@ -34,18 +34,7 @@ The model and encoders were pre-trained on a historical credit dataset and saved
 
 ---
 
-## 📦 Project Structure
 
-Credit_Risk_Prediction_App/
-│
-├── app.py # Streamlit app
-├── extra_trees_credit_model.pkl # Trained model
-├── Sex_encoder.pkl
-├── Housing_encoder.pkl
-├── Saving accounts_encoder.pkl
-├── Checking account_encoder.pkl
-├── requirements.txt # Dependencies
-└── README.md # Project info
 
 
 ---
